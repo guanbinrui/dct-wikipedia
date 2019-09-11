@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "lib": ["dom", "es2015"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "noImplicitAny": true
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx"]
+}
